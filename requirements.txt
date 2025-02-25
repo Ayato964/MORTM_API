@@ -1,7 +1,6 @@
 Flask~=3.0.3
-MORTM~=1.0b20
+MORTM~=2.0.11
 torch~=2.5.0
 pretty_midi~=0.2.10
 numpy~=2.1.2
 music21~=9.1.0
-AGSM~=0.1.0
